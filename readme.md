@@ -29,19 +29,19 @@ Identifica los elementos de navegación en los siguientes sites:
 * Navegación filtrada:
 
 ![Breather filtrada1](breather/Navegación-filtrada-1.png)
-![Breather filtrada2](breather/Navegació-filtrada-2.png)
+![Breather filtrada2](breather/Navegación-filtrada-2.png)
 
 * Navegación facetada:
 
 ![Breather facetada1](breather/Navegación-Facetada-1.png)
-![Breather facetada2](breather/Navegació-Facetada-2.png)
+![Breather facetada2](breather/Navegación-Facetada-2.png)
 
 * Navegación contextual:
 
-![Breather contextual](breather/Navegació-contextual-1.png)
+![Breather contextual](breather/Navegación-contextual-1.png)
 
 * Navegación inline:
-![Breather inline](breather/Navegació-inline-1.png)
+![Breather inline](breather/Navegación-inline-1.png)
 
 ### Github
 
